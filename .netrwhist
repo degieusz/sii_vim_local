@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/dge/em/crud-express-mongo/public'
+let g:netrw_dirhist_2='/home/dge/em/crud-express-mongo'
+let g:netrw_dirhist_3='/home/dge/em/crud-express-mongo/views'
+let g:netrw_dirhist_4='/home/dge/z'
